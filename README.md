@@ -1,6 +1,5 @@
-Simplified Multipath TCP Project Report
-
-Tristan Anderson
+# Simplified Multipath TCP
+## Tristan Anderson
 
 # 1. Overview of Document
 
