@@ -2,10 +2,6 @@ Simplified Multipath TCP Project Report
 
 Tristan Anderson
 
-# Table of Contents
-
-[[TOC]]
-
 # 1. Overview of Document
 
 There are four major sections to this document. The first is the design requirements section; it lays out the purpose and intended use of the project. The second is the levels of design, which includes many subcategories pertaining to the functionality of the client-server system. Since this is a protocol for sending information, the protocols section details the way the packets are structured and certain design decisions involving it. The assumptions section lays out a couple of things I took for granted in development that were less specified in the original specifications so that they can be explicitly known.
